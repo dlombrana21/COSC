@@ -1,0 +1,1 @@
+std::cout << objStudent2.boolisHonorRoll << std::endl;
