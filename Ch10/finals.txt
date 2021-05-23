@@ -1,0 +1,12 @@
+final is on thursday
+focused on stuff in book 
+2 program
+1 part will be building header file
+1 part will be building class
+
+come with questions for next week
+    What should be the order of operations for Header Files to the main cpp? Header > sub CPP > main CPP?
+
+mostly read a lot x.x
+
+every class has a header and CPP file
